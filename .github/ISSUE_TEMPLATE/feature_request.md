@@ -7,25 +7,24 @@ assignees: ""
 ---
 
 ## 💡 Summary
-Provide a clear and concise summary of the feature you’re requesting.
 
-> Example: Add dark mode option for the dashboard.
 
----
+
 
 ## 🎯 User Story
-Describe who wants this feature and why.
+Who wants this feature and why.
 
-> As a [type of user], I want [a specific goal], so that [reason or benefit].
 
----
+
+
 
 ## 🧠 Description
-Explain what this feature should do and how it will improve the product.
+What this feature should do and how it will improve the product.
 
-> Example: Users should be able to toggle between light and dark themes from the settings page.
 
----
+
+
+
 
 ## ✅ Acceptance Criteria
 Define what conditions must be met for this feature to be considered complete.
@@ -35,21 +34,21 @@ Define what conditions must be met for this feature to be considered complete.
 - [ ] Tested by QA
 - [ ] Reviewed by PM/Lead
 
----
+
 
 ## 🔗 Dependencies / Related Issues
-List any related tasks, blockers, or dependent issues.
+Related tasks, blockers, or dependent issues.
 
-> Example: Depends on API for theme preference (`#45`)
 
----
+
+
 
 ## 📷 Design or Mockups
-Attach screenshots, diagrams, or Figma links if available.
+Screenshots, diagrams, or Figma links if available.
 
-> Example: [Figma Link](https://www.figma.com/file/abc123)
 
----
+
+
 
 ## 👥 Assigned To
 - **Developer:**  
@@ -57,7 +56,11 @@ Attach screenshots, diagrams, or Figma links if available.
 - **UI/UX:**  
 - **Analyst:**  
 
----
+
 
 ## 📋 Additional Notes
 Add any other relevant details, edge cases, or reference materials here.
+
+
+
+
