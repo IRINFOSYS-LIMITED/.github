@@ -1,0 +1,20 @@
+name: "Feature Request"
+description: "Suggest a new feature or enhancement for the platform"
+title: "[Feature]: "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: user_story
+    attributes:
+      label: "User Story"
+      description: "As a [user], I want to [goal], so that [reason]."
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: "Acceptance Criteria"
+      description: "Define when this feature is considered done."
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional Context"
+      description: "Add any relevant information or screenshots here."
