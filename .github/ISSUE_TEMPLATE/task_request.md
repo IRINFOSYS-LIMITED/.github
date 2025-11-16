@@ -1,7 +1,7 @@
 ---
 name: 🧩 Task
 about: Create a new task for development, testing, UI, or analysis work.
-title: "[Task] <Brief title of the task>"
+title: 
 labels: ["task"]
 assignees: ""
 ---
