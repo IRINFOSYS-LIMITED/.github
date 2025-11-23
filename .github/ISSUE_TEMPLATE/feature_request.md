@@ -9,7 +9,7 @@ labels: []
 assignees: ""
 ---
 
-**## 🎯 User Story**
+## 🎯 User Story
 As a [type of user/persona]
 I want to [perform specific action]
 So that [achieve specific benefit/value]
