@@ -1,7 +1,10 @@
-Creating a user story---
+---
+name: 💡 Feature Request
+about: Suggest a new feature or enhancement for our project.
 name: 💡 Story
 
 title:
+labels: ["enhancement"]
 labels: []
 assignees: ""
 ---
