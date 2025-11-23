@@ -1,34 +1,25 @@
 ---
-name: 💡 Feature Request
-about: Suggest a new feature or enhancement for our project.
+name: 💡 Story
+
 title:
-labels: ["enhancement"]
+labels: []
 assignees: ""
 ---
 
-## 💡 Summary
+## 💡 Title
 
 
 
 
 ## 🎯 User Story
-Who wants this feature and why.
-
-
-
-
-
-## 🧠 Description
-What this feature should do and how it will improve the product.
-
-
+As a [type of user/persona]
+I want to [perform specific action]
+So that [achieve specific benefit/value]
 
 
 
 
 ## ✅ Acceptance Criteria
-Define what conditions must be met for this feature to be considered complete.
-
 - [ ] Feature is visible and functional
 - [ ] Works across browsers and devices
 - [ ] Tested by QA
@@ -36,8 +27,8 @@ Define what conditions must be met for this feature to be considered complete.
 
 
 
-## 🔗 Dependencies / Related Issues
-Related tasks, blockers, or dependent issues.
+##  Detail Requirement
+
 
 
 
@@ -50,11 +41,9 @@ Screenshots, diagrams, or Figma links if available.
 
 
 
-## 👥 Assigned To
-- **Developer:**  
-- **QA:**  
-- **UI/UX:**  
-- **Analyst:**  
+## 👥 Defination of Done (DoD)
+
+
 
 
 
