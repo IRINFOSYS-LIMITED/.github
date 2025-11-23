@@ -9,11 +9,6 @@ labels: []
 assignees: ""
 ---
 
-## 💡 Title
-
-
-
-
 ## 🎯 User Story
 As a [type of user/persona]
 I want to [perform specific action]
@@ -30,7 +25,7 @@ So that [achieve specific benefit/value]
 
 
 
-##  Detail Requirement
+## 📋 Detail Requirement
 
 
 
