@@ -1,6 +1,6 @@
 ---
-name: 💡 Feature Request
-about: Suggest a new feature or enhancement for our project.
+name: 💡 Story
+about: A simple and concise description of a software feature told from user's perspective
 name: 💡 Story
 
 title:
