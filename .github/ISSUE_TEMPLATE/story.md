@@ -21,7 +21,7 @@ So that [achieve specific benefit/value]
 - [ ] Feature is visible and functional
 - [ ] Works across browsers and devices
 - [ ] Tested by QA
-- [ ] Reviewed by PM/Lead
+- [ ] Reviewed by QA Lead
 
 
 
@@ -39,7 +39,7 @@ Screenshots, diagrams, or Figma links if available.
 
 
 
-## 👥 Defination of Done (DoD)
+## 👥 Definition of Done (DoD)
 
 
 
