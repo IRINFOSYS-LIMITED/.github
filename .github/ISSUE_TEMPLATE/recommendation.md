@@ -1,7 +1,7 @@
 ---
 name: 📋 Recommendation
 about: Use this template to report any suggestion, recommendation, improvement in the system.
-title: "[Recommendation] <Brief description of the issue>"
+title: 
 labels: ["recommendation"]
 assignees: ""
 ---
